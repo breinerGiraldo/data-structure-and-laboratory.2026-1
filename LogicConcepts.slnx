@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/01/">
+    <Project Path="IsNumberOrNot/IsNumberOrNot.csproj" Id="7aa821fc-cdc0-41aa-a254-d4b31fccc1ca" />
+  </Folder>
+</Solution>
