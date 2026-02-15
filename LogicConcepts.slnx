@@ -6,9 +6,7 @@
   <Folder Name="/02/">
     <Project Path="ThEGrathestNumber/ThEGrathestNumber.csproj" Id="c515232d-23ad-45fc-985d-516b2b27dd39" />
   </Folder>
-  <Folder Name="/03/">
-    <Project Path="SortNumbers/SortNumbers.csproj" Id="378f8d67-f2b7-430f-afa5-eca7926a19bb" />
-  </Folder>
+  <Folder Name="/03/" />
   <Folder Name="/Share/">
     <Project Path="Share/Share.csproj" Id="9e0c83a3-9c60-4c47-8475-7bd4735ab374" />
   </Folder>
