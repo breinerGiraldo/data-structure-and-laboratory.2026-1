@@ -6,7 +6,12 @@
   <Folder Name="/02/">
     <Project Path="ThEGrathestNumber/ThEGrathestNumber.csproj" Id="c515232d-23ad-45fc-985d-516b2b27dd39" />
   </Folder>
-  <Folder Name="/03/" />
+  <Folder Name="/03/">
+    <Project Path="SortNumber2/SortNumber2.csproj" Id="177f51f8-3fa0-4b6f-bc04-7c3fab5ade9d" />
+  </Folder>
+  <Folder Name="/04/">
+    <Project Path="IsMultiopleOfAnother/IsMultiopleOfAnother.csproj" Id="0ae91e1c-54fe-41c1-9e80-5e8673e08bfe" />
+  </Folder>
   <Folder Name="/Share/">
     <Project Path="Share/Share.csproj" Id="9e0c83a3-9c60-4c47-8475-7bd4735ab374" />
   </Folder>
