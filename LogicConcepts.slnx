@@ -1,18 +1,21 @@
 <Solution>
   <Folder Name="/01/">
-    <Project Path="IsNumberOrNot/IsNumberOrNot.csproj" Id="7aa821fc-cdc0-41aa-a254-d4b31fccc1ca" />
-    <Project Path="IsNumberOrNotWithlibrariExtension/IsNumberOrNotWithlibrariExtension.csproj" Id="28c73eee-5a8e-485c-86a4-e159657d277b" />
+    <Project Path="../../../../../../../../C#/IsNumberOrNot/IsNumberOrNot.csproj" Id="7aa821fc-cdc0-41aa-a254-d4b31fccc1ca" />
+    <Project Path="../../../../../../../../C#/IsNumberOrNotWithlibrariExtension/IsNumberOrNotWithlibrariExtension.csproj" Id="28c73eee-5a8e-485c-86a4-e159657d277b" />
   </Folder>
   <Folder Name="/02/">
-    <Project Path="ThEGrathestNumber/ThEGrathestNumber.csproj" Id="c515232d-23ad-45fc-985d-516b2b27dd39" />
+    <Project Path="../../../../../../../../C#/ThEGrathestNumber/ThEGrathestNumber.csproj" Id="c515232d-23ad-45fc-985d-516b2b27dd39" />
   </Folder>
   <Folder Name="/03/">
-    <Project Path="SortNumber2/SortNumber2.csproj" Id="177f51f8-3fa0-4b6f-bc04-7c3fab5ade9d" />
+    <Project Path="../../../../../../../../C#/SortNumber2/SortNumber2.csproj" Id="177f51f8-3fa0-4b6f-bc04-7c3fab5ade9d" />
   </Folder>
   <Folder Name="/04/">
-    <Project Path="IsMultiopleOfAnother/IsMultiopleOfAnother.csproj" Id="0ae91e1c-54fe-41c1-9e80-5e8673e08bfe" />
+    <Project Path="../../../../../../../../C#/IsMultiopleOfAnother/IsMultiopleOfAnother.csproj" Id="0ae91e1c-54fe-41c1-9e80-5e8673e08bfe" />
+  </Folder>
+  <Folder Name="/05/">
+    <Project Path="../../../../../../../../C#/IsLeapYear/IsLeapYear.csproj" Id="271fba85-39a2-4273-bfce-cc7ca1a85b76" />
   </Folder>
   <Folder Name="/Share/">
-    <Project Path="Share/Share.csproj" Id="9e0c83a3-9c60-4c47-8475-7bd4735ab374" />
+    <Project Path="../../../../../../../../C#/Share/Share.csproj" Id="9e0c83a3-9c60-4c47-8475-7bd4735ab374" />
   </Folder>
 </Solution>
