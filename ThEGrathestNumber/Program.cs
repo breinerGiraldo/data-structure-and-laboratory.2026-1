@@ -19,7 +19,7 @@ do
     }
     else if(number3 >  number1 && number3> number2 )
     {
-        Console.WriteLine($"el numero {number3} es el mayor.");
+        Console.WriteLine($"el numero {number3} es el mayor..");
     }
 
 
