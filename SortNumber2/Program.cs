@@ -1,6 +1,4 @@
 ﻿using Share;// con este utilizamos la libreria que creamos en Share
-var answer = string.Empty;
-var options = new List<string> { "s", "n" };// definimos una lista de opciones para validar la respuesta del usuario
 do
 {
     var a = ConsoleExtension.GetInt("Ingrese el primer numero: ");
