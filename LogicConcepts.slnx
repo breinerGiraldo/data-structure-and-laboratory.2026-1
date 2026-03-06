@@ -21,6 +21,9 @@
   <Folder Name="/07/">
     <Project Path="Discount2/Discount.csproj" Id="d33b0032-ae61-410f-8451-b7891e5ad289" />
   </Folder>
+  <Folder Name="/08/">
+    <Project Path="Registrationvalue/Registrationvalue.csproj" Id="7be7bf6b-1a3e-4075-a316-10a71854b520" />
+  </Folder>
   <Folder Name="/Share/">
     <Project Path="Share/Share.csproj" Id="9e0c83a3-9c60-4c47-8475-7bd4735ab374" />
   </Folder>
